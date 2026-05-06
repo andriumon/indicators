@@ -5,7 +5,7 @@
   "name": "Code duplication follows community conventions",
   "abbreviation": "code_duplication_ok",
   "identifier": { "@id": "https://w3id.org/everse/i/indicators/code_duplication_ok" },
-  "description": "The code duplication ratio is maintained at a reasonable level according to community's standards and conventions. Code duplication ratio is the percentage of code within a codebase or project that is syntactically identical, often meassured using code blocks (i.e. Sonarqube). An example for calculating it could be (lines_duplicated/lines of code)*100.",
+  "description": "The code duplication ratio is maintained at a reasonable level according to community's standards and conventions. Code duplication ratio is the percentage of code within a codebase or project that is syntactically identical, often meassured using code blocks (i.e. Sonarqube). An example for calculating it could be (lines_duplicated/lines_of_code)*100.",
   "status": "Active",
   "keywords": [
     "maintainability", "duplication", "quality", "code"
